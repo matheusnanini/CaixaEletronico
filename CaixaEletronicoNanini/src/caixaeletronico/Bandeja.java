@@ -5,10 +5,6 @@
  */
 package caixaeletronico;
 
-/**
- *
- * @author Gabriel
- */
 public class Bandeja {
     private final double valorFace;
     private int qntNotas;
